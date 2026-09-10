@@ -1,2 +1,3 @@
 # easy-worship
-Stores files for easy worship
+
+This compiles list of songs
